@@ -1,3 +1,7 @@
+# Programa para Infomar o Dia de Rodizio da placa
+# Autor: Raphael Patricio Pereira
+# Data: 29/12/2025
+
 print ("Ola Seja bem vindo Vou informar o dia de rodizio de seu veiculo")
 print ("Por favor Digite a Sua Placa")
 placa = input("Digite sua placa:")
@@ -21,3 +25,4 @@ else :
 
         print ("Aqui esta seu dia de rodizio")
         print ( "O seu dia da semana de rodizio é", semana)
+
