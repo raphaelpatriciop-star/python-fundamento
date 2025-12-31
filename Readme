@@ -1,22 +1,20 @@
-# Estudos Python – Dia 1
+# Python Fundamentos
 
-## O que aprendi
-- Configuração do ambiente Python
-- Uso de input e print
-- Conversão de tipos (int)
-- Manipulação de strings
-- Estruturas condicionais (if / elif / else)
-- Importância da indentação no Python
+Este repositório contém meus estudos e práticas iniciais em Python, com foco em retomar a programação, reforçar lógica e construir uma base sólida para backend e automação.
 
-## O que pratiquei
-- Programa para calcular idade
-- Programa para identificar o dia de rodízio da placa do carro usando if /else /elfi
-- Validação de entrada de dados
+## 🎯 Objetivo
+- Reaprender os fundamentos da programação
+- Consolidar lógica de programação
+- Praticar Python de forma estruturada
+- Criar base para backend, banco de dados e APIs
+- Documentar a evolução de aprendizado
 
-## Dificuldades encontradas
-- Entendimento do escopo por indentação
-- Uso correto do else
-- Evitar uso de variáveis fora do bloco
+## 📚 Estrutura do repositório
 
-## Conclusão
-O estudo foi produtivo e ajudou a recuperar a lógica de programação.
+```text
+python-fundamentos/
+├── dia1/
+│   ├── dia1.py
+│   └── README.md
+├── dia2/
+├── README.md
